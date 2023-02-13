@@ -1,1 +1,1 @@
-# Techn.-prog.
+# Techn._prog.
